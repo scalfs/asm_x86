@@ -1,6 +1,7 @@
-Funções de desenho de setas
+#Desenho de setas na interface de vídeo para processador 8086
 
-   Os parametros que devem ser passados são posição "x" inicial (x0 em ax),
+### Funções ilustrativas para desenho de seta
+   Os parametros que devem ser passados são posição "x" inicial (x0 em ax),
 posição "y" inicial (y0 em bx), tamanho da seta (k em cx), seu tipo (di) e
 sua cor (byte[cor]). Estes podem ser passados dentro das funções indicadas 
 abaixo, ou podem ser passados no ponto do código onde são chamadas as 
