@@ -18,6 +18,8 @@ Executável: `freelink setas`
 
 Para executar: `setas.exe`
 
+![Setas desenhadas](./setas.png)
+
 ## TODOs
 
 Em [painel.asm](../painel.asm): Corrigir e completar a implementacão dos ponteiros do painel.
